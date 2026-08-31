@@ -2,6 +2,12 @@
 
 一款简洁、日系白色调的本地 Android 记账 App：快速记账、月度总结、预算超额预警，并可从微信支付和支付宝的付款通知自动记录支出。
 
+## 下载安卓安装包
+
+**[点击直接下载月见账 APK](https://github.com/wen20041019-commits/yuejian-billling/releases/download/v1.0.0/-.apk)**
+
+也可以前往 [v1.0.0 发布页面](https://github.com/wen20041019-commits/yuejian-billling/releases/tag/v1.0.0) 查看版本说明和文件校验信息。
+
 ## 功能
 
 - 手动记录金额、分类、备注和日期
